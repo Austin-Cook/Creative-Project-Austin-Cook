@@ -94,6 +94,11 @@ img {
     flex: 1.4;
 }
 
+.question-image {
+    width: 40%;
+    margin: auto;
+}
+
 .row-text {
     flex: 1.6;
     margin: 5%;
@@ -129,6 +134,12 @@ img {
 
 .center {
     text-align: center;
+}
+
+.submit-button-style {
+    margin-top: 6px;
+    margin-bottom: 6px;
+    
 }
 
 
